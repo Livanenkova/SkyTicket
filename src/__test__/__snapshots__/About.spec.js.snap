@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`отображается корректно 1`] = `
+<div
+  className="about"
+>
+  <h1>
+    About page here
+  </h1>
+  <h3>
+    Shop adress
+  </h3>
+  <p>
+    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore deserunt facilis delectus suscipit sit debitis maxime repellendus quos eius nam amet, quidem ullam accusantium aspernatur porro similique quam modi voluptatum!
+  </p>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    Main Page
+  </a>
+</div>
+`;

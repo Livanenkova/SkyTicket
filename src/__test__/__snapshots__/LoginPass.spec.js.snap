@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`отображается корректно 1`] = `
+<div
+  className="listView"
+>
+  <label
+    htmlFor="login"
+  >
+    Логин:
+    <input
+      className="login"
+      id="login"
+      name="login"
+      onChange={[Function]}
+      placeholder="login"
+      type="email"
+    />
+  </label>
+  <label
+    htmlFor="password"
+  >
+    Пароль:
+    <input
+      className="password"
+      id="password"
+      name="password"
+      onChange={[Function]}
+      placeholder="password"
+      type="password"
+    />
+  </label>
+  <div />
+  <button
+    onClick={[Function]}
+    style={
+      Object {
+        "width": "150px",
+      }
+    }
+    type="button"
+  >
+    Залогиниться
+  </button>
+</div>
+`;

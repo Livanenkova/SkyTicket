@@ -1,0 +1,478 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`отображается корректно 1`] = `
+<div
+  className="NumberGenerator"
+>
+  <div>
+    тест
+  </div>
+  <div
+    className="NumberGenerator__wrap"
+    style={
+      Object {
+        "display": "flex",
+        "flexWrap": "wrap",
+        "gap": "1px",
+        "margin": "auto",
+        "width": "350px",
+      }
+    }
+  >
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#149763",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      0
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#dafa0a",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      1
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#bb3d50",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      2
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#bb3d50",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      3
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#149763",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      4
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#bb3d50",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      5
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#149763",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      6
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#bb3d50",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      7
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#149763",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      8
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#dafa0a",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      9
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#149763",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      10
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#bb3d50",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      11
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#149763",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      12
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#bb3d50",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      13
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#149763",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      14
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#dafa0a",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      15
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#149763",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      16
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#bb3d50",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      17
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#149763",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      18
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#bb3d50",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      19
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#149763",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      20
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#dafa0a",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      21
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#149763",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      22
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#bb3d50",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      23
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#149763",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      24
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#dafa0a",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      25
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#149763",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      26
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#dafa0a",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      27
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#149763",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      28
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#bb3d50",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      29
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#149763",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      30
+    </div>
+    <div
+      className="NumberGenerator__item"
+      style={
+        Object {
+          "background": "#bb3d50",
+          "height": "40px",
+          "margin": "auto",
+          "textAlign": "center",
+          "width": "40px",
+        }
+      }
+    >
+      31
+    </div>
+  </div>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    Main Page
+  </a>
+</div>
+`;

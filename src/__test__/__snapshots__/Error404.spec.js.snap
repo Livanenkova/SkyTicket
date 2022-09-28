@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error404 Component отображается корректно 1`] = `
+<div
+  className="error404"
+>
+  <h1>
+    error404
+  </h1>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    Main Page
+  </a>
+</div>
+`;
+
+exports[`отображается корректно 1`] = `
+<div
+  className="error404"
+>
+  <h1>
+    error404
+  </h1>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    Main Page
+  </a>
+</div>
+`;

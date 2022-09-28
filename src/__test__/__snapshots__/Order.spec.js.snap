@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`отображается корректно 1`] = `
+<div
+  className="order"
+>
+  <div />
+  <div
+    className="clear"
+  />
+  <p
+    className="total"
+  >
+    Total Quantity : 
+    <b>
+       
+      0
+    </b>
+  </p>
+  <p
+    className="total"
+  >
+    Total Price : 
+    <b>
+       /- 
+      0
+    </b>
+  </p>
+  <a
+    href="/user-order"
+    onClick={[Function]}
+  >
+    User-Order
+  </a>
+</div>
+`;
